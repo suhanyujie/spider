@@ -4,9 +4,9 @@ return array (
     'DB_HOST' => '127.0.0.1',
     'DB_PORT' => 3306,
     'DB_USER' => 'root',
-    'DB_PASSWORD' => 'admin888',
-    'DB_DATABASE' => 'hdcms',
-    'DB_PREFIX' => 'hd_',
+    'DB_PASSWORD' => 'root',
+    'DB_DATABASE' => 'meiwen',
+    'DB_PREFIX' => 'meiwen_',
     'WEB_MASTER' => 'admin',
 );
 ?>
